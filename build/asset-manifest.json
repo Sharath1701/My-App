@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.173df4de.css",
+    "main.js": "/static/js/main.54a32e7b.js",
+    "static/media/blue-optic-fiber-close-up.jpg": "/static/media/blue-optic-fiber-close-up.0a53fefdcee84d1b488c.jpg",
+    "index.html": "/index.html",
+    "main.173df4de.css.map": "/static/css/main.173df4de.css.map",
+    "main.54a32e7b.js.map": "/static/js/main.54a32e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.173df4de.css",
+    "static/js/main.54a32e7b.js"
+  ]
+}
